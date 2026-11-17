@@ -1,1 +1,97 @@
-{ "updated": null, "series": {} }
+{
+  "updated": "2026-11-17T01:19:47.853Z",
+  "series": {
+    "mort30": {
+      "id": "MORTGAGE30US",
+      "note": "Freddie Mac PMMS, weekly",
+      "value": 7.11,
+      "date": "2026-11-12",
+      "prev": 7.18,
+      "change": -0.0699999999999994
+    },
+    "mort15": {
+      "id": "MORTGAGE15US",
+      "note": "Freddie Mac PMMS, weekly",
+      "value": 6.45,
+      "date": "2026-11-12",
+      "prev": 6.57,
+      "change": -0.1200000000000001
+    },
+    "sp500": {
+      "id": "SP500",
+      "note": "S&P 500, daily close",
+      "value": 7416.59,
+      "date": "2026-11-16",
+      "prev": 7561.67,
+      "change": -145.07999999999993
+    },
+    "nasdaq": {
+      "id": "NASDAQ100",
+      "note": "Nasdaq-100, daily close",
+      "value": 27943.74,
+      "date": "2026-11-13",
+      "prev": 28289.19,
+      "change": -345.4499999999971
+    },
+    "chicago": {
+      "id": "CHXRSA",
+      "note": "S&P Cotality Case-Shiller Chicago",
+      "value": 235.0548600276,
+      "date": "2026-08-01",
+      "yoy": 6.677615917196755
+    },
+    "us": {
+      "id": "CSUSHPINSA",
+      "note": "S&P Cotality Case-Shiller U.S. National",
+      "value": 336.741,
+      "date": "2026-08-01",
+      "yoy": 2.0909884672754453
+    },
+    "sales": {
+      "id": "EXHOSLUSM495S",
+      "note": "Existing-home sales, annual pace (NAR)",
+      "value": 3750000,
+      "date": "2026-10-01",
+      "prev": 3970000,
+      "change": -220000
+    },
+    "listings": {
+      "id": "ACTLISCOUUS",
+      "note": "Active listings (Realtor.com)",
+      "value": 1183520,
+      "date": "2026-10-01",
+      "yoy": 7.436943704355947
+    },
+    "dom": {
+      "id": "MEDDAYONMARUS",
+      "note": "Median days on market (Realtor.com)",
+      "value": 63,
+      "date": "2026-10-01",
+      "yoy": 0
+    },
+    "car72": {
+      "id": "RIFLPBCIANM72NM",
+      "note": "Fed G.19, new car loan 72-mo, quarterly",
+      "value": 7.17,
+      "date": "2026-08-01",
+      "prev": 6.97,
+      "change": 0.20000000000000018
+    },
+    "personal": {
+      "id": "TERMCBPER24NS",
+      "note": "Fed G.19, personal loan 24-mo, quarterly",
+      "value": 11.9,
+      "date": "2026-08-01",
+      "prev": 11.86,
+      "change": 0.040000000000000924
+    },
+    "card": {
+      "id": "TERMCBCCINTNS",
+      "note": "Fed G.19, credit card (accounts assessed interest), quarterly",
+      "value": 22.36,
+      "date": "2026-08-01",
+      "prev": 22.15,
+      "change": 0.21000000000000085
+    }
+  }
+}
