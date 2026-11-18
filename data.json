@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T01:19:47.853Z",
+  "updated": "2026-11-18T03:49:14.688Z",
   "series": {
     "mort30": {
       "id": "MORTGAGE30US",
@@ -28,10 +28,10 @@
     "nasdaq": {
       "id": "NASDAQ100",
       "note": "Nasdaq-100, daily close",
-      "value": 27943.74,
-      "date": "2026-11-13",
-      "prev": 28289.19,
-      "change": -345.4499999999971
+      "value": 27197.15,
+      "date": "2026-11-16",
+      "prev": 27943.74,
+      "change": -746.5900000000001
     },
     "chicago": {
       "id": "CHXRSA",
