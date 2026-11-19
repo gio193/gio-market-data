@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T03:49:14.688Z",
+  "updated": "2026-11-19T03:46:29.581Z",
   "series": {
     "mort30": {
       "id": "MORTGAGE30US",
@@ -20,18 +20,18 @@
     "sp500": {
       "id": "SP500",
       "note": "S&P 500, daily close",
-      "value": 7416.59,
-      "date": "2026-11-16",
-      "prev": 7561.67,
-      "change": -145.07999999999993
+      "value": 7323.63,
+      "date": "2026-11-18",
+      "prev": 7340.53,
+      "change": -16.899999999999636
     },
     "nasdaq": {
       "id": "NASDAQ100",
       "note": "Nasdaq-100, daily close",
-      "value": 27197.15,
-      "date": "2026-11-16",
-      "prev": 27943.74,
-      "change": -746.5900000000001
+      "value": 27001.78,
+      "date": "2026-11-17",
+      "prev": 27197.15,
+      "change": -195.37000000000262
     },
     "chicago": {
       "id": "CHXRSA",
