@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T06:18:37.418Z",
+  "updated": "2026-11-25T04:59:39.009Z",
   "series": {
     "mort30": {
       "id": "MORTGAGE30US",
@@ -20,32 +20,32 @@
     "sp500": {
       "id": "SP500",
       "note": "S&P 500, daily close",
-      "value": 6910.39,
-      "date": "2026-11-20",
-      "prev": 7175.83,
-      "change": -265.4399999999996
+      "value": 7237.17,
+      "date": "2026-11-23",
+      "prev": 6910.39,
+      "change": 326.77999999999975
     },
     "nasdaq": {
       "id": "NASDAQ100",
       "note": "Nasdaq-100, daily close",
-      "value": 26517.05,
-      "date": "2026-11-19",
-      "prev": 27116.26,
-      "change": -599.2099999999991
+      "value": 26214.17,
+      "date": "2026-11-24",
+      "prev": 26746.1,
+      "change": -531.9300000000003
     },
     "chicago": {
       "id": "CHXRSA",
       "note": "S&P Cotality Case-Shiller Chicago",
-      "value": 235.0548600276,
-      "date": "2026-08-01",
-      "yoy": 6.677615917196755
+      "value": 236.1306657353,
+      "date": "2026-09-01",
+      "yoy": 6.868245481478352
     },
     "us": {
       "id": "CSUSHPINSA",
       "note": "S&P Cotality Case-Shiller U.S. National",
-      "value": 336.741,
-      "date": "2026-08-01",
-      "yoy": 2.0909884672754453
+      "value": 335.754,
+      "date": "2026-09-01",
+      "yoy": 2.0910553185537584
     },
     "sales": {
       "id": "EXHOSLUSM495S",
