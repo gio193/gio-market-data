@@ -1,29 +1,29 @@
 {
-  "updated": "2026-11-25T04:59:39.009Z",
+  "updated": "2026-11-26T04:18:23.195Z",
   "series": {
     "mort30": {
       "id": "MORTGAGE30US",
       "note": "Freddie Mac PMMS, weekly",
-      "value": 7.28,
-      "date": "2026-11-19",
-      "prev": 7.11,
-      "change": 0.16999999999999993
+      "value": 7.21,
+      "date": "2026-11-25",
+      "prev": 7.28,
+      "change": -0.07000000000000028
     },
     "mort15": {
       "id": "MORTGAGE15US",
       "note": "Freddie Mac PMMS, weekly",
-      "value": 6.66,
-      "date": "2026-11-19",
-      "prev": 6.45,
-      "change": 0.20999999999999996
+      "value": 6.54,
+      "date": "2026-11-25",
+      "prev": 6.66,
+      "change": -0.1200000000000001
     },
     "sp500": {
       "id": "SP500",
       "note": "S&P 500, daily close",
-      "value": 7237.17,
-      "date": "2026-11-23",
-      "prev": 6910.39,
-      "change": 326.77999999999975
+      "value": 7201.09,
+      "date": "2026-11-24",
+      "prev": 7237.17,
+      "change": -36.07999999999993
     },
     "nasdaq": {
       "id": "NASDAQ100",
